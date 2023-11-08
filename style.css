@@ -113,9 +113,6 @@ nav ul li a:hover{
     margin-bottom: 72px;
     background: linear-gradient(180deg, rgba(96, 224, 153, 0.00) 0%, rgba(0, 217, 89, 0.60) 100%);
 }
-.info-block h3{
-    text-align: center;
-}
 .info-block a{
     display: flex;
     padding: 8px 16px;
