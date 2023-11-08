@@ -109,6 +109,7 @@ nav ul li a:hover{
     padding: 36px 24px;
     justify-content: center;
     align-items: center;
+    text-align: center;
     margin-bottom: 72px;
     background: linear-gradient(180deg, rgba(96, 224, 153, 0.00) 0%, rgba(0, 217, 89, 0.60) 100%);
 }
